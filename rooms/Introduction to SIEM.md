@@ -108,6 +108,10 @@ SIEM tools analyze these logs using predefined correlation rules. These rules ar
 Answers
 ![image](https://github.com/user-attachments/assets/4feff115-7c47-412b-b269-a3b504358205)
 
+# Completed status of this room
+![image](https://github.com/user-attachments/assets/14e00b46-a6c3-4c76-a3af-5640f1211a46)
+
+
 
 
 
