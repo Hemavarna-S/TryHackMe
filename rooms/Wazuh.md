@@ -16,7 +16,7 @@ here are the steps
    Answers
    ![image](https://github.com/user-attachments/assets/3c8b22bb-ecef-43b2-94e2-9e64e0e82143)
    ## Wazuh Policy Auditing
-   Wazuh is capable of auditing and monitoring an agent's configuration whilst proactively recording event logs. When the Wazuh agent is installed, an audit is performed where a metric is given using multiple frameworks and legislations such as NIST, MITRE and GDPR.
+   Wazuh is capable of auditing and monitoring an agent's configuration whilst proactively recording event logs. When the Wazuh agent is installed, an audit is performed where a metric is given using multiple frameworks and legislations such as NIST, MITRE and GDPR
    
 
 
